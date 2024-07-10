@@ -1,0 +1,29 @@
+h1{
+    color: blue;
+    font-size: 50px;
+}
+
+p{
+    color: white;
+    background-color: crimson;
+    font-size: 25px;
+    padding: 15px;
+    border: 10px solid powderblue;
+    /*margin-top: 40px;
+    margin-right: 10px;
+    margin-left: 50px;
+    margin-bottom: 100px;*/
+    /*margin: 50px 30px 20px 30px;*/
+
+    /*--- CENTRAR CAJA O BOX ---*/
+    margin: auto;
+
+    /*--- CENTRAR TEXTO ---*/
+    text-align: center;
+
+    /*PALETA DE COLORES: TRENDING COLOR PALETTES*/
+}
+
+body{
+    background-color: beige;
+}
